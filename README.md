@@ -1,4 +1,4 @@
-# Drumoo - Full Stack Developer Challenge
+# Seed - Full Stack Developer Challenge
 Desafio para você que quer trabalhar conosco!
 
 #### - Para responder o desafio:
