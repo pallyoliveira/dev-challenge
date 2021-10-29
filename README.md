@@ -64,9 +64,9 @@ Assim:
 Keep it Simple!  :)
 
 
-#### Em caso de dúvidas, [abra uma issue](https://github.com/drumoo/dev-challenge/issues).  ;)
+#### Em caso de dúvidas, [abra uma issue](https://github.com/jamesmaul/dev-challenge/issues).  ;)
 
 
 
 #### Até logo e bom trabalho!
-seed team
+Seed & Coortex team
