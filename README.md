@@ -7,7 +7,7 @@ Instale as dependências
 Necessário rodar npm install dentro da pasta client e na pasta raiz
 
 ### `npm start`
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) para visualizar no browser - REACT
 
 
