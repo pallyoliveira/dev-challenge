@@ -1,0 +1,1 @@
+depois do git clone necessário rodar npm install dentro da pasta client e na pasta raiz
