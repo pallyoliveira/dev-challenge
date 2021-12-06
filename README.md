@@ -1,6 +1,6 @@
 ### `git clone`
 Clone o repositório
-Entre na pasta do repositório que você acabou de clonar:
+Entre na pasta do repositório que você acabou de clonar.
 
 ### `npm install`
 Instale as dependências
